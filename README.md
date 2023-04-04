@@ -4,7 +4,7 @@ The ChatGPT Chrome extension allows users to download their current chat with Ch
 
 ## Installation
 
-1. Download the zip file of the extension from the [ChatGPT website](https://www.chatgpt.com).
+1. Download the zip file of the extension from the [GIT website](https://github.com/manivannan-r/chatgpt-exporter).
 2. Extract the zip file to a folder on your computer.
 3. Open Google Chrome and go to the Extensions page. You can do this by typing `chrome://extensions` in the URL bar or by clicking the three-dot menu icon in the top-right corner of Chrome and selecting **More tools > Extensions**.
 4. Enable Developer mode by clicking the toggle switch in the top-right corner of the Extensions page.
